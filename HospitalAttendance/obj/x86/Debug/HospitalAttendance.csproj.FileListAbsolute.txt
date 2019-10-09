@@ -7,3 +7,5 @@ C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HospitalAttendance\
 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HospitalAttendance\HospitalAttendance\obj\x86\Debug\HospitalAttendance.csproj.GenerateResource.Cache
 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HospitalAttendance\HospitalAttendance\obj\x86\Debug\HospitalAttendance.exe
 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HospitalAttendance\HospitalAttendance\obj\x86\Debug\HospitalAttendance.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HospitalAttendance\HospitalAttendance\obj\x86\Debug\HospitalAttendance.UI.userDashboard.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\HospitalAttendance\HospitalAttendance\obj\x86\Debug\HospitalAttendance.UI.userChsangePassword.resources
