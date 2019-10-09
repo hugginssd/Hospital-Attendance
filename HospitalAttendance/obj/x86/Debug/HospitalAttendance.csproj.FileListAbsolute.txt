@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2010\Projects\HospitalAttendance\HospitalAttendance\bin\Debug\HospitalAttendance.exe
+c:\users\administrator\documents\visual studio 2010\Projects\HospitalAttendance\HospitalAttendance\bin\Debug\HospitalAttendance.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\HospitalAttendance\HospitalAttendance\obj\x86\Debug\HospitalAttendance.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\HospitalAttendance\HospitalAttendance\obj\x86\Debug\HospitalAttendance.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\HospitalAttendance\HospitalAttendance\obj\x86\Debug\HospitalAttendance.UI.frmSignUp.resources
+c:\users\administrator\documents\visual studio 2010\Projects\HospitalAttendance\HospitalAttendance\obj\x86\Debug\HospitalAttendance.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\HospitalAttendance\HospitalAttendance\obj\x86\Debug\HospitalAttendance.exe
+c:\users\administrator\documents\visual studio 2010\Projects\HospitalAttendance\HospitalAttendance\obj\x86\Debug\HospitalAttendance.pdb
