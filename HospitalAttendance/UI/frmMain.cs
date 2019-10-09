@@ -15,5 +15,12 @@ namespace HospitalAttendance.UI
         {
             InitializeComponent();
         }
+
+        private void lblCancel_Click(object sender, EventArgs e)
+        {
+            if(MessageBox.Show("Are you sure you want to exit?","Quit",MessageBoxButtons.YesNoCancel,MessageBoxIcon.Question,MessageBoxDefaultButton.Button1)==DialogResult.Yes){
+                Application.Exit();
+            }
+        }
     }
 }
